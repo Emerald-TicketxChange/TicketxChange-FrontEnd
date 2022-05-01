@@ -1,4 +1,4 @@
-Deploy Log: [Rainbow-Emerald|Deploy Logs](https://app.netlify.com/sites/emerald-ticketxchange/deploys)
+Deploy Log: [Emerald-TicketxChange|Deploy Logs](https://app.netlify.com/sites/emerald-ticketxchange/deploys)
 
 # Next + Netlify Starter
 
