@@ -44,7 +44,7 @@ const [anchorElManage, setAnchorElManage] = React.useState(null);
   };
 
   return (
-    <AppBar position="static" style={{ background: '#2E3B55' }}>
+    <AppBar position="fixed" style={{ background: '#2E3B55' }}>
       <Container maxWidth="xl">
         <Toolbar disableGutters>
           <Typography
